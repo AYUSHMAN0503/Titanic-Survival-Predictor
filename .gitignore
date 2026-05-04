@@ -1,0 +1,14 @@
+# Ignore data files
+data/train.csv
+data/test.csv
+
+# Ignore node + python stuff globally
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
